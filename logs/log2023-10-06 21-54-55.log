@@ -1,0 +1,11 @@
+[2023-10-06 21:54:56,518] root - INFO - creating directory for: artifacts
+[2023-10-06 21:54:56,518] root - INFO - artifacts directory created
+[2023-10-06 21:54:56,518] root - INFO - initiT DATA ingestion function running
+[2023-10-06 21:54:56,519] root - INFO - running download_data function of ingestion class
+[2023-10-06 21:54:56,519] root - INFO - making directory for downloading
+[2023-10-06 21:54:56,519] root - INFO - creating directory for: artifacts/raw_data
+[2023-10-06 21:54:56,519] root - INFO - artifacts/raw_data directory created
+[2023-10-06 21:54:56,519] root - INFO - downloading data
+[2023-10-06 21:55:03,637] root - INFO - downloading successfull
+[2023-10-06 21:55:03,638] root - INFO - data download successfull
+[2023-10-06 21:55:03,638] root - INFO - downloa complete
